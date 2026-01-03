@@ -15,7 +15,7 @@ Log in to your Amazon Developer account and navigate to the [Alexa Developer Con
 - Choose a primary locale: English (US) or (DE/GB/BR/IN)
 - Click Next, Under Experience type select: Other > Custom > Alexa-hosted (Python)
 - In Templates : Click Import Skill
-Enter the repository address: [https://github.com/Behzad9/Gemini-Alexa.git](https://github.com/Behzad9/Gemini-Alexa.git) and confirm.
+Enter the repository address: [https://github.com/Behzad9/Gemini-Alexa.git](https://github.com/Behzad9/Alexa-Gemini.git) and confirm.
 
 ## Configuring the Skill
 When you finish importing in Invocations > Skill Invocation Name :
